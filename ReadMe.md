@@ -10,7 +10,7 @@ This project implements an intelligent customer support system leveraging Stream
     - Response word limit selection for concise or detailed answers.
     - Radio button selection for focused assistance type.
 - **Enhanced Response Generation:**
-    - Pre-trained Llama model fine-tuned on a relevant dataset ([https://huggingface.co/datasets/PRAKALP-PANDE/PSP-agricultureQnA-1k-unique](https://huggingface.co/datasets/PRAKALP-PANDE/PSP-agricultureQnA-1k-unique)).
+    - Pre-trained Llama model fine-tuned on a relevant dataset ([https://huggingface.co/datasets/PRAKALP-PANDE/PSP-agricultureQnA-1k-unique]
     - Caching mechanism for efficient retrieval of existing responses.
 - **Accessibility:**
     - Text-to-speech functionality for reading responses aloud.

@@ -24,7 +24,7 @@ This project implements an intelligent customer support system leveraging Stream
 
 2. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/AI-Driven-Customer-Support-System.git](https://github.com/mohamed-arsath-001/AI-Customer-support-system)
+   git clone [https://github.com/mohamed-arsath-001/AI-Customer-support-system]
    ```
    (Replace `your-username` with your actual GitHub username)
 

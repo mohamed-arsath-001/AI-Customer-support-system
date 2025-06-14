@@ -24,14 +24,14 @@ This project implements an intelligent customer support system leveraging Stream
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/AI-Driven-Customer-Support-System.git
+   git clone [https://github.com/your-username/AI-Driven-Customer-Support-System.git](https://github.com/mohamed-arsath-001/AI-Customer-support-system)
    ```
    (Replace `your-username` with your actual GitHub username)
 
 3. **Set Up a Conda Environment (Optional but Recommended):**
    - Create a virtual environment to isolate project dependencies and avoid conflicts with other projects:
      ```bash
-     cd AI-Driven-Customer-Support-System
+     cd AI-Customer-Support-System
      conda create -n dcss_env python=3.8  # Adjust Python version as needed
      conda activate dcss_env
      ```

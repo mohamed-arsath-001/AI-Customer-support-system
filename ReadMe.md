@@ -57,8 +57,8 @@ AI-Driven-Customer-Support-System/
 **Model Download and Usage:**
 
 1. **Download the Pre-trained Model:**
-   - Access the LLM model from the provided link ([https://huggingface.co/PRAKALP-PANDE/PSP-AI-DCSS-finetune](https://huggingface.co/PRAKALP-PANDE/PSP-AI-DCSS-finetune)).
-   - Download the model file (e.g., `PSP-AI-DCSS-finetune.bin`).
+   - Access the LLM model from the provided link 
+   - Download the model file 
 2. **Move the Model File:**
    - Place the downloaded model file inside the `models` folder within the project directory.
 
